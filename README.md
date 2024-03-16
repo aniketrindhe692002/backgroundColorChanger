@@ -1,13 +1,14 @@
-React + Vite
-if vite+react is not install then run -
-npm create vite@latest
+## React + Vite
+
+if vite+react is not install then run - <br>
+<b><i>npm create vite@latest</i></b>
 
 
-to Run these code you need to install node_modules first using -
+to Run these code you need to install node_modules first using - <br>
 
-cd backgroundColorChanger // Locate to the Project Folder
-npm install
+<b><i>cd backgroundColorChanger</i></b> // Locate to the Project Folder
+<b><i>npm install</i></b>
 
 to run these code run -
 
-npm run dev
+<b><i>npm run dev</i></b>
